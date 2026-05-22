@@ -58,8 +58,7 @@ country-data-analysis/
 │
 ├── Countries.csv
 ├── analysis.py
-├── README.md
-└── requirements.txt
+└──README.md
 ```
 
 ---
@@ -69,7 +68,8 @@ country-data-analysis/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/country-data-analysis.git
+git clone https://github.com/priyam-10/GeoStats-Analyzer.git
+
 ```
 
 ### 2️⃣ Navigate to Project Folder
@@ -80,11 +80,6 @@ cd country-data-analysis
 
 ### 3️⃣ Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## ▶ How to Run
 
@@ -148,7 +143,7 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-### Your Name
+### Priyam Singh
 Python & Data Analysis Enthusiast
 
 ---
